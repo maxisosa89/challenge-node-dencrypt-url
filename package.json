@@ -1,0 +1,19 @@
+{
+  "name": "urlnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "express": "^4.18.1",
+    "mocha": "^10.0.0",
+    "node": "^18.7.0",
+    "nodemon": "^2.0.19"
+  }
+}
